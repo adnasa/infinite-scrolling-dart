@@ -1,0 +1,5 @@
+name: HelloWorld
+description: A sample web application
+dependencies:
+  browser: any
+  json_object: any

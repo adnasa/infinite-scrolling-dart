@@ -1,0 +1,37 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+article.profile {
+  width: 10%;
+  float: left;
+  margin: 0 1%;
+  min-height: 180px;
+}
+
+article.profile img {
+  width: 100%;
+  max-width: 100%;
+}
+
+#loader {
+  box-sizing: border-box;
+  background-color: #ff0000;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 10px;
+  text-align: center;
+  font-size: 1.4em;
+  color: #fff;
+}
+
+.hidden {
+  display: none;
+}
